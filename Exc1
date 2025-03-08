@@ -1,0 +1,4 @@
+name=input ("please enter your first name:") 
+age=int (input ("please enter your age:")) 
+height=int(input("please enter your height:"))
+print (("name:") ,name,("age:") ,age,("height:") ,height)|
