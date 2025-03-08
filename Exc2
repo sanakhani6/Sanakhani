@@ -1,0 +1,7 @@
+numl=int (input ("please enter first number:")) 
+num2=int (input ("please enter second number:")) 
+result1= numl+num2 
+result2= num1-num2 
+result3= num1*num2
+result4= num1/num2 
+print(("sum:"), result1, ("sub:") , result2, ("mul:"), result3, ("div:") , result4)
